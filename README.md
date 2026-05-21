@@ -130,7 +130,7 @@ class GabrielMuniz:
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,40:001a0d,100:003320&height=80&section=footer&text=%3E%20EOF&fontSize=20&fontColor=00ff41&animation=fadeIn&stroke=00ff41&strokeWidth=1"/>
 
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&color=00ff41&style=for-the-badge&label=VISITANTES"/>
+<img src="https://komarev.com/ghpvc/?username=GabrielMunizSD&color=00ff41&style=for-the-badge&label=VISITANTES"/>
 
 *`"Security is not a product, but a process."` — Bruce Schneier*
 
