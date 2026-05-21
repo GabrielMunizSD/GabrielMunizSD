@@ -3,12 +3,12 @@
 <!-- BANNER CYBERPUNK -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,40:001a0d,100:003320&height=200&text=Gabriel%20Muniz&fontSize=62&fontColor=00ff41&fontAlignY=45&desc=%3E%20Cybersecurity%20%7C%20Infraestrutura%20%7C%20Python&descAlignY=68&descSize=17&descColor=00b894&animation=fadeIn&stroke=00ff41&strokeWidth=1" />
 
-<!-- TERMINAL TYPING -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=2500&pause=800&color=00FF41&background=00000000&center=true&vCenter=true&width=650&lines=%3E+Inicializando+sistema...;%3E+Módulos+de+segurança+carregados+✓;%3E+Usuário%3A+Gabriel+Muniz+%2F%2F+ACESSO+CONCEDIDO;%3E+Status%3A+%5BONLINE%5D+—+Aprendendo+24%2F7;%3E+Objetivo%3A+especialista+em+Cybersecurity;%3E+Executando+scripts+Python...+%5BOK%5D" alt="Typing SVG" />
-</a>
-
 <br/>
+
+<!-- TYPING ANIMATION (sem anchor, URL limpa) -->
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=650&lines=%3E%20Inicializando%20sistema...;%3E%20Modulos%20de%20seguranca%20carregados%20%5BOK%5D;%3E%20Usuario%3A%20Gabriel%20Muniz%20%2F%2F%20ACESSO%20CONCEDIDO;%3E%20Status%3A%20%5BONLINE%5D%20--%20Aprendendo%2024%2F7;%3E%20Objetivo%3A%20Cybersecurity%20Specialist;%3E%20Executando%20scripts%20Python...%20%5BOK%5D" alt="Typing SVG" />
+
+<br/><br/>
 
 <a href="mailto:gabrielmuniz1509@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -41,31 +41,16 @@ class GabrielMuniz:
 
 ## 🛠️ Tecnologias & Ferramentas
 
-<!-- ÍCONES COM ROLAGEM ANIMADA -->
 <div align="center">
-<marquee scrollamount="4" behavior="scroll" direction="left" width="80%">
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=python&theme=dark" height="45" title="Python"/>
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=linux&theme=dark" height="45" title="Linux"/>
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=bash&theme=dark" height="45" title="Bash"/>
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=git&theme=dark" height="45" title="Git"/>
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=github&theme=dark" height="45" title="GitHub"/>
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=vim&theme=dark" height="45" title="Vim"/>
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=kali&theme=dark" height="45" title="Kali Linux"/>
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=vscode&theme=dark" height="45" title="VSCode"/>
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="45" title="MySQL"/>
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=docker&theme=dark" height="45" title="Docker"/>
-&nbsp;&nbsp;
-</marquee>
+
+<!-- Linha 1: Linguagens e sistemas -->
+<img src="https://skillicons.dev/icons?i=python,linux,bash,vim,vscode&theme=dark" />
+
+<br/>
+
+<!-- Linha 2: Ferramentas e infra -->
+<img src="https://skillicons.dev/icons?i=git,github,docker,mysql,kali&theme=dark" />
+
 </div>
 
 <br/>
@@ -125,7 +110,6 @@ class GabrielMuniz:
 
 ---
 
-<!-- FOOTER -->
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,40:001a0d,100:003320&height=80&section=footer&text=%3E%20EOF&fontSize=20&fontColor=00ff41&animation=fadeIn&stroke=00ff41&strokeWidth=1"/>
