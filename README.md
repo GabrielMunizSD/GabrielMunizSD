@@ -81,7 +81,7 @@ class GabrielMuniz:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Status
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielMunizSD&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&border_radius=10&border_color=00ff41&icon_color=00ff41&title_color=00ff41"/>
